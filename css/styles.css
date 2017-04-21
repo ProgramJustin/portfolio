@@ -1,0 +1,13 @@
+.jumbotron {
+  text-align: center;
+  background-image: url("http://imgs.abduzeedo.com/files/articles/superb-california-hd-wallpapers/02965_archonthewater_1280x720.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.col-md-6 h2 {
+  text-align: left;
+  color: white;
+}
+.col-md-6 ul {
+  float; left;
+}
