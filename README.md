@@ -12,17 +12,4 @@
 
 3. **Double-Click** _index.html_ file. // This will open up the file in your browser.
 
-
-
-
-
-
-
-The project repo contains a README that includes:
-
-    author name
-    project or program name
-    description of program
-    program setup instructions
-    link to site on GitHub Pages
-    copyright and license information
+###### Copyright © 2017, [Justin Gomez](https://github.com/programjustin)
