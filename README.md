@@ -2,7 +2,7 @@
 
 ## _Portfolio Landing Page_
 
-#### This **program** contains information about my _Education_, _Job History_ and my _Interests_
+#### This **program** contains information about my _Projects_, _Education_, _Job History_ and my _Interests_
 
 ## SET UP **INSTRUCTIONS**
 
