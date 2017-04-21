@@ -4,15 +4,37 @@
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
-  font-family: 'Trocchi', serif;
+  font-family: 'Titan One', cursive;;
 }
 .c1 {
   border: 2px solid black;
+  background-image: url("http://pre06.deviantart.net/c5fc/th/pre/f/2014/053/e/2/free_space_galaxy_texture_by_lyshastra-d77gh54.jpg");
+  background-size: cover;
+  color: white;
+
 }
 .c1 h1 {
   text-align: center;
-  font-family: 'Trocchi', serif;
+  font-family: 'Titan One', cursive;
+  font-size: 60px;
+}
+.c1 a {
+  color: white;
+  font-style: italic;
+  text-decoration: underline;
+}
+ul h2 {
+    font-family: 'Titan One', cursive;
 }
 .c1 ul {
-  float: left;
+  float: right;
+  margin-right: 80px;
+}
+.col-md-5 img {
+  width: 400px;
+  height:300px;
+  border: 1px solid black;
+  }
+.col-md-5 p {
+  font-family: 'Titan one': cursive;
 }
