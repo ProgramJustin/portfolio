@@ -41,8 +41,6 @@ body {
 .jumbotron {
   text-align: center;
   background-color: #1ac6ff;
-  background-size: cover;
-  background-repeat: no-repeat;
   color: white;
   font-family: 'Titan One', cursive;
   border: 5px solid #3333ff;
@@ -100,3 +98,12 @@ ul h2 {
   padding: 10px;
   font-family: fantasy;
 }
+
+.c2 {
+  text-align: center;
+  background-color: #1ac6ff;
+  color: white;
+  font-family: 'Titan One', cursive;
+  border: 5px solid #3333ff;
+  margin-top: 20%;
+  }
