@@ -42,7 +42,7 @@ body {
 }
 .jumbotron h1{
   font-size: 100px;
-   text-shadow: 2px 2px #3333FF;
+  text-shadow: 2px 2px #3333FF;
 }
 .jumbotron h2 {
    text-shadow: 2px 2px #3333FF;
@@ -68,7 +68,7 @@ body {
   text-decoration: underline;
 }
 ul h2 {
-    font-family: 'Titan One', cursive;
+  font-family: 'Titan One', cursive;
 }
 .c1 ul {
   float: right;
@@ -85,7 +85,7 @@ ul h2 {
   height:250px;
   border: 5px solid #3333ff;
   border-radius: 5px;
-  }
+}
 .col-md-4 p {
   font-family: 'Titan one': cursive;
 }
@@ -103,35 +103,33 @@ ul h2 {
   border: 5px solid #3333ff;
   border-radius: 5px;
   margin-top: 5%;
-  }
+}
 #ch1 {
   color: white;
   font-family: 'Titan One', cursive;
   text-align: center;
   font-size: 80px;
   text-shadow: 2px 2px #3333FF;
-  }
-  .ch4 {
-    margin-top: 20px;
-    color: #1ac6ff;
-    font-family: 'Titan One', cursive;
-    text-align: center;
-    font-size: 80px;
-    color: white;
-  }
-
-  #ch2:hover {
-    text-align: center;
-    color: white;
-    padding: 10px;
-    background-color: #3333FF;
-    border-radius: 10px;
-    font-family: 'Titan One', cursive;
-  }
-  video {
+}
+.ch4 {
+  margin-top: 20px;
+  color: #1ac6ff;
+  font-family: 'Titan One', cursive;
+  text-align: center;
+  font-size: 80px;
+  color: white;
+}
+#ch2:hover {
+  text-align: center;
+  color: white;
+  padding: 10px;
+  background-color: #3333FF;
+  border-radius: 10px;
+  font-family: 'Titan One', cursive;
+}
+video {
     margin-top: 10px;
-  }
-
-  .col-md-4 h2 {
+}
+.col-md-4 h2 {
     color: yellow;
-  }
+}
