@@ -1,13 +1,18 @@
 .jumbotron {
   text-align: center;
-  background-image: url("http://imgs.abduzeedo.com/files/articles/superb-california-hd-wallpapers/02965_archonthewater_1280x720.jpg");
+  background-image: url("http://pre06.deviantart.net/c5fc/th/pre/f/2014/053/e/2/free_space_galaxy_texture_by_lyshastra-d77gh54.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-}
-.col-md-6 h2 {
-  text-align: left;
   color: white;
+  font-family: 'Trocchi', serif;
 }
-.col-md-6 ul {
-  float; left;
+.c1 {
+  border: 2px solid black;
+}
+.c1 h1 {
+  text-align: center;
+  font-family: 'Trocchi', serif;
+}
+.c1 ul {
+  float: left;
 }
