@@ -42,10 +42,10 @@ body {
 }
 .jumbotron h1{
   font-size: 100px;
-   text-shadow: 2px 2px #ff0000;
+   text-shadow: 2px 2px #3333FF;
 }
 .jumbotron h2 {
-   text-shadow: 2px 2px #ff0000;
+   text-shadow: 2px 2px #3333FF;
 }
 .c1 {
   border: 5px solid #3333ff;
@@ -59,7 +59,7 @@ body {
   text-align: center;
   font-family: 'Titan One', cursive;
   font-size: 60px;
-  text-shadow: 2px 2px #ff0000;
+  text-shadow: 2px 2px #3333FF;
 
 }
 .c1 a {
@@ -104,12 +104,12 @@ ul h2 {
   border-radius: 5px;
   margin-top: 5%;
   }
-  #ch1 {
-    color: white;
-    font-family: 'Titan One', cursive;
-    text-align: center;
-    font-size: 80px;
-    text-shadow: 2px 2px #ff0000;
+#ch1 {
+  color: white;
+  font-family: 'Titan One', cursive;
+  text-align: center;
+  font-size: 80px;
+  text-shadow: 2px 2px #ff0000;
   }
   .ch4 {
     margin-top: 20px;
@@ -118,7 +118,6 @@ ul h2 {
     text-align: center;
     font-size: 80px;
     color: white;
-
   }
 
   #ch2:hover {
