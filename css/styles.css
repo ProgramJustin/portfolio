@@ -131,3 +131,7 @@ ul h2 {
   video {
     margin-top: 10px;
   }
+
+  .col-md-4 h2 {
+    color: yellow;
+  }
